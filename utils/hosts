@@ -24,3 +24,5 @@
 # Jenkins
 # -------------------------
 127.0.0.1   jenkins-server          # Jenkins (jenkins-server) - Integração contínua
+
+## senha do user 147258
