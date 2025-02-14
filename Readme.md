@@ -59,5 +59,8 @@ O projeto utiliza Docker Compose para gerenciar os serviços necessários para o
    npx playwright test --ui
    ```
 
+
+## senha do user na aplicação = 147258
+
 ## 📄 Licença
 Este projeto está sob a licença MIT.
