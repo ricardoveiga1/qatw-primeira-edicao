@@ -59,8 +59,15 @@ O projeto utiliza Docker Compose para gerenciar os serviços necessários para o
    npx playwright test --ui
    ```
 
+Projeto em JS e não TS
 
 ## senha do user na aplicação = 147258
+
+npm i pg-promise - instala lib npm para conectar postgres
+
+npx playwright test --ui
+
+docker-compose up
 
 ## 📄 Licença
 Este projeto está sob a licença MIT.
