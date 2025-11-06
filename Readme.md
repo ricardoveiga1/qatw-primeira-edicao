@@ -69,5 +69,8 @@ npx playwright test --ui
 
 docker-compose up
 
+Anotaçoes:
+- nao tem como passar pelo sistema de capta do login, é a prova de robo, se conseguir abra um bug no google e fique rico , em ambiente de teste, fica desligado
+
 ## 📄 Licença
 Este projeto está sob a licença MIT.
